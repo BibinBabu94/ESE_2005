@@ -1,5 +1,5 @@
 LIBRARY ieee;
-USE ieee.std_logic_1164.all;
+USE ieee.std_logic_1164.all
 ENTITY hex_seven_seg_vhd_tst IS
 END hex_seven_seg_vhd_tst;
 ARCHITECTURE hex_seven_seg_arch OF hex_seven_seg_vhd_tst IS
