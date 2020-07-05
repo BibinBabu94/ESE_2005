@@ -1,2 +1,2 @@
-ESE_2005
+ESE 2005
 Course work on Embedded System Architecture
